@@ -9,7 +9,7 @@ require (
 	golang.org/x/oauth2 v0.0.0-20220309155454-6242fa91716a
 	google.golang.org/api v0.74.0
 	google.golang.org/genproto v0.0.0-20220405205423-9d709892a2bf
-	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
+	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/apimachinery v0.0.0-20190817020851-f2f3a405f61d
 	k8s.io/test-infra v0.0.0-20191024183346-202cefeb6ff5
 )
