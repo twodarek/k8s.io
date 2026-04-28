@@ -192,6 +192,18 @@ groups:
       - shivamerla@nvidia.com
       - sig-node-leads@kubernetes.io
 
+  - email-id: k8s-infra-staging-dra-driver-google@kubernetes.io
+    name: k8s-infra-staging-dra-driver-google
+    description: |-
+      ACL for pushing dra-driver-google artifacts
+    settings:
+      ReconcileMembers: "true"
+    members:
+      - jbelamaric@google.com
+      - mortent@google.com
+      - troychiu@google.com
+      - sig-node-leads@kubernetes.io
+
   - email-id: k8s-infra-staging-nrc@kubernetes.io
     name: k8s-infra-staging-nrc
     description: |-
