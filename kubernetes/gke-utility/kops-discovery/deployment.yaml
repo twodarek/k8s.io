@@ -58,17 +58,22 @@ spec:
             capabilities:
               drop:
                 - ALL
-          # Note: kops discovery server has no health endpoints, using TCP probe
+          # Note: kops discovery server has no health endpoints.
+          # Using httpGet with HTTPS scheme to perform a proper TLS handshake
           livenessProbe:
-            tcpSocket:
+            httpGet:
+              path: /
               port: 8443
+              scheme: HTTPS
             initialDelaySeconds: 10
             periodSeconds: 10
             timeoutSeconds: 5
             failureThreshold: 3
           readinessProbe:
-            tcpSocket:
+            httpGet:
+              path: /
               port: 8443
+              scheme: HTTPS
             initialDelaySeconds: 5
             periodSeconds: 5
             timeoutSeconds: 3
