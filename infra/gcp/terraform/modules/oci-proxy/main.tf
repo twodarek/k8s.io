@@ -31,6 +31,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -49,6 +53,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -67,6 +75,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -85,6 +97,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -103,6 +119,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -121,6 +141,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -139,6 +163,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -157,6 +185,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -175,6 +207,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -193,6 +229,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -211,6 +251,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -229,6 +273,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -247,6 +295,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -265,6 +317,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -282,6 +338,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -300,6 +360,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -318,6 +382,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -336,6 +404,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -354,6 +426,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -372,6 +448,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -390,6 +470,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
@@ -408,6 +492,10 @@ locals {
         {
           name  = "UPSTREAM_REGISTRY_PATH",
           value = "k8s-artifacts-prod/images"
+        },
+        {
+          name  = "SIGNATURE_UPSTREAM_ENDPOINT",
+          value = "https://us-central1-docker.pkg.dev"
         }
       ]
     }
